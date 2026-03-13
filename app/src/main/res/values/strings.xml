@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">PetShop22</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Mật khẩu</string>
+    <string name="hint_confirm_password">Xác nhận mật khẩu</string>
+    <string name="hint_full_name">Họ tên</string>
+    <string name="hint_phone">Số điện thoại</string>
+    <string name="hint_search">Tìm kiếm sản phẩm…</string>
+    <string name="hint_address">Địa chỉ giao hàng</string>
+    <string name="btn_login">Đăng nhập</string>
+    <string name="btn_register">Đăng ký</string>
+    <string name="btn_add_to_cart">Thêm vào giỏ hàng</string>
+    <string name="btn_checkout">Thanh toán</string>
+    <string name="btn_confirm_payment">Xác nhận thanh toán</string>
+    <string name="btn_back_home">Về trang chủ</string>
+    <string name="label_no_account">Chưa có tài khoản? Đăng ký</string>
+    <string name="label_have_account">Đã có tài khoản? Đăng nhập</string>
+    <string name="label_all">Tất cả</string>
+    <string name="label_total">Tổng cộng:</string>
+    <string name="label_cart_empty">Giỏ hàng trống</string>
+    <string name="label_out_of_stock">Hết hàng</string>
+    <string name="label_in_stock">Còn %d sản phẩm</string>
+    <string name="label_shipping_info">Thông tin giao hàng</string>
+    <string name="label_payment_method">Phương thức thanh toán</string>
+    <string name="label_order_summary">Đơn hàng</string>
+    <string name="payment_cod">Thanh toán khi nhận hàng (COD)</string>
+    <string name="payment_bank">Chuyển khoản ngân hàng</string>
+    <string name="payment_momo">Ví MoMo</string>
+    <string name="msg_payment_success">Thanh toán thành công!</string>
+    <string name="msg_payment_success_detail">Đơn hàng của bạn đã được xác nhận. Chúng tôi sẽ liên hệ để giao hàng sớm nhất.</string>
+</resources>
